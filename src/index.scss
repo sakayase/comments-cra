@@ -5,7 +5,8 @@
 @import "../node_modules/bulma/sass/form/_all.sass";
 @import "../node_modules/bulma/sass/grid/columns.sass";
 @import "../node_modules/bulma/sass/elements/container.sass";
-@import "./Comment.scss";
+@import "../node_modules/bulma/sass/helpers/_all.sass";
+@import "../node_modules/bulma/sass/helpers/spacing.sass";
 
 body {
   margin: 0;

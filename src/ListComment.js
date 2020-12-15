@@ -15,7 +15,7 @@ export default class ListComment extends Component {
         
         return (
             <div>
-                <h2 className="title">Liste des commentaires</h2>
+                <h2 className="title ml-3">Liste des commentaires</h2>
                 {commentJSX}
             </div>
         )
